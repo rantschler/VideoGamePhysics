@@ -7,7 +7,8 @@ The general idea behind the course is using 2D games to teach both the elements 
 
 Files:
 
-boilerplate.py - This is the general template that I use to build the templates for the exercises
+boilerplate.py - This is the general template that I use to build the templates for the exercises.
+
 gameclass.py - This includes a bunch of classes and functions that are designed to help the student.
                This file needs to be included with any of the templates for them to work
                
