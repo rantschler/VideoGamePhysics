@@ -14,7 +14,7 @@ gameclass.py - This includes a bunch of classes and functions that are designed 
                
 Templates:
 
-IC##-NAME.pdf - These are the instructions for the in-class exercises.
+UNIT X - NAME.docx - These are the instructions for the in-class exercises.
 
 IC##-NAME.py - These are in-class exercises used to teach a specific example in the class.
 
